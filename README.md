@@ -1,7 +1,7 @@
 
 # React Search Component
 
-A simple React Search/filter tutorial (Focus on React)
+A simple React Search/filter tutorial (Focus on State)
 
 ## Tech Stack
 
