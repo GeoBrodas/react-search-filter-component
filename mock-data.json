@@ -1,61 +1,61 @@
 [
   {
     "id": 1,
-    "title": "Hella W",
+    "title": "Github Co-Pilot: The future of programming?",
     "author": "Xerxes Witul",
     "date": "12/18/2020"
   },
   {
     "id": 2,
-    "title": "Californie, La",
+    "title": "NextJS Image Optimization",
     "author": "Scottie Martini",
     "date": "5/10/2020"
   },
   {
     "id": 3,
-    "title": "Yellow Earth (Huang tu di)",
+    "title": "Best Practices while writing code",
     "author": "Woodie Sieve",
     "date": "1/23/2020"
   },
   {
     "id": 4,
-    "title": "Emperor Jones, The",
+    "title": "Typescript: Why should you use?",
     "author": "Demott Sircombe",
     "date": "4/17/2020"
   },
   {
     "id": 5,
-    "title": "Our Town",
+    "title": "Build a Weather application using GraphQL",
     "author": "Karrie Rabl",
     "date": "3/7/2020"
   },
   {
     "id": 6,
-    "title": "Gallipoli",
+    "title": "Introduction to Rest-API",
     "author": "Madonna Boyack",
     "date": "4/8/2021"
   },
   {
     "id": 7,
-    "title": "Time Tracers",
+    "title": "Google Sheets API: A free database?",
     "author": "Mildrid Haffenden",
     "date": "10/31/2020"
   },
   {
     "id": 8,
-    "title": "Evolver",
+    "title": "Watch out for these Tech events",
     "author": "Shae Rodman",
     "date": "6/25/2020"
   },
   {
     "id": 9,
-    "title": "The Time of Their Lives",
+    "title": "How to increase your productivity?",
     "author": "Allyn Smaleman",
     "date": "7/3/2020"
   },
   {
     "id": 10,
-    "title": "Something Wild",
+    "title": "ThreeJS in React",
     "author": "Odele Burris",
     "date": "6/17/2021"
   }
