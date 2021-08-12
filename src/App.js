@@ -19,8 +19,8 @@ export default function App() {
         } else if (data.title.toLowerCase().includes(query.toLowerCase())) {
           return data;
         }
-      }).map((data, key) => (
-        <div className="box">
+      }).map((data, index) => (
+        <div className="box" key={index}>
           <p>{data.title}</p>
           <p>{data.author}</p>
         </div>
