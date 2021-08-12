@@ -7,13 +7,16 @@ A simple React Search/filter tutorial (Focus on State)
 
 **Client:** React
 
+## Edit directly on Stackblitz
+
+Head over to https://stackblitz.com/edit/react-myc5y7 and start editing on the go!
   
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/GeoBrodas/react-search-filter-component
 ```
 
 Go to the project directory
