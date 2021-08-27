@@ -19,12 +19,16 @@ export default function App() {
         } else if (data.title.toLowerCase().includes(query.toLowerCase())) {
           return data;
         }
-      }).map((data, index) => (
-        <div className="box" key={index}>
-          <p>{data.title}</p>
-          <p>{data.author}</p>
-        </div>
-      ))}
+      })
+        .sort((postA, postB) => (postA.date > postB.date ? -1 : 1))
+
+        .map((data, index) => (
+          <div className="box" key={index}>
+            <p>{data.title}</p>
+            <p>{data.date}</p>
+            <p>{data.author}</p>
+          </div>
+        ))}
     </div>
   );
 }
